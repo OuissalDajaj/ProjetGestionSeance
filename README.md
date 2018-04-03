@@ -1,2 +1,0 @@
-# ProjetGestionSeance
-GestionSeance
